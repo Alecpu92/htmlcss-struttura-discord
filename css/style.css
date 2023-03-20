@@ -54,5 +54,19 @@ main{
 #button{
     width: 50px;
 }
+#contenitore-footer{
+    background-color: black;
+    display: flex;
+    height: 250px;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.items-footer{
+    background-color: red;
+    height: 150px;
+    width:100px;
+    margin-top: 50px;
+    
+}
 
 
